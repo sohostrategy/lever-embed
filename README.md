@@ -1,5 +1,8 @@
-# Lever job list embed code creator
+# staticlever.sohocore.com
+This is a fork of Andreas M. Brændhaugen's [Lever code generator](https://andreasmb.github.io/lever-jobs-embed/). It provides an excellent, quick way to load jobs from Lever into content management systems like Wordpress. The CSS in this fork has been customised to better reflect that in use on the [Soho Strategy](https://www.sohostrategy.com/) website.
 
-Easily create a code that you can use to add a list of jobs to your own website. Access the site [here](https://andreasmb.github.io/lever-jobs-embed/). This a quick way to add your jobs to a CMS like Wordpress and Hubspot.
+## Q&A
+Reach out: team@sohostrategy.com
 
-(This code generator is not officially supported by Lever.)
+## Disclaimer
+This code generator is not officially supported by Lever.
