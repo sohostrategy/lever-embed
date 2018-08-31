@@ -49,15 +49,17 @@
 #lever-jobs-container .lever-job-title {
   display: inline-block;
   flex: 0 0 65%;
-  color: #0c92f3;
-  text-decoration: underline;
+  color: #E51725;
+  text-decoration: none;
   margin-bottom: 0.2em;
 }
 #lever-jobs-container .lever-job-title:hover {
-  color: #0068b3;
+  color: #E82F3C;
+  text-decoration: none;
 }
 #lever-jobs-container .lever-job-title:active {
-  color: #003459;
+  color: #E82F3C;
+  text-decoration: none;
 }
 #lever-jobs-container .lever-job-tag {
   display: inline-block;
